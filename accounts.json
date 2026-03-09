@@ -1,1 +1,10 @@
-
+{
+  "accounts": [
+    {
+      "username": "testuser",
+      "password": "testpass",
+      "hwid": "yourhwidhere",
+      "expires": "2026-12-31"
+    }
+  ]
+}
