@@ -3,7 +3,7 @@ const fs = require("fs");
 const app = express();
 app.use(express.json());
 
-const API_KEY = "1234";
+const API_KEY = "z83b265un2v28dawf7751c7oo8213xlwr9ntwloucdpq8ay3e4sx7fbq8du4u8m388i3q92apkilhcoyncl7itlbkcsy7cjbnqn5yjf676qovlzxig3ezs63kkiwffbj784f35f9xjx5n0ieyh5szxfbf615o1ziwxfs5q05vum1unq0qyff701ozfjpiddlrqp9mgq1k282uu7ww6x3zdmt7nqlleqy1gco6wj33uwkwje07cz1eg0cbw";
 
 app.post("/auth", (req, res) => {
   const { username, password, hwid, apiKey } = req.body;
