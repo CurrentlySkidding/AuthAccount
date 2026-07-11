@@ -11,6 +11,12 @@
       "password": "bbno$0392a0r0b0y0'0sT0A0O0V0E0R29",
       "hwid": "bb7964aee4c36b107bc3be6035afcbf97e4e8157ddae9cb07fe98d74bc40a3ab",
       "expires": "2027-03-15"
+    },
+    {
+      "username": "coda",
+      "password": "1234",
+      "hwid": "fe8fc887eee8e690c179e080545e480b87c542b243a814a25f03ecce22d1d6b0",
+      "expires": "2046-07-11"
     }
   ]
 }
